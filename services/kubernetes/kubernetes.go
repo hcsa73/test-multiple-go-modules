@@ -6,7 +6,7 @@ import (
 	core "github.com/hcsa73/test-multiple-go-modules/core"
 )
 
-const DUMMY_CONST = "KUBERNETES-V0.1.1"
+const DUMMY_CONST = "KUBERNETES-V0.1.3"
 
 func GetDummyConst() string {
 	return DUMMY_CONST
