@@ -6,7 +6,11 @@ import (
 	"golang.org/x/example/stringutil"
 )
 
-const DUMMY_CONST = "CORE-V1.0.0"
+const DUMMY_CONST = "CORE-V0.1.3"
+
+func GetDummyConst() string {
+	return DUMMY_CONST
+}
 
 func GetDummyConstReversed() string {
 	return stringutil.Reverse(DUMMY_CONST)
