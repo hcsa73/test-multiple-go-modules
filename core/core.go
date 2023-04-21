@@ -6,7 +6,7 @@ import (
 	"golang.org/x/example/stringutil"
 )
 
-const DUMMY_CONST = "CORE-V0.1.2"
+const DUMMY_CONST = "CORE-V0.1.3"
 
 func GetDummyConst() string {
 	return DUMMY_CONST
