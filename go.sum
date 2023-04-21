@@ -1,5 +1,7 @@
-github.com/hcsa73/test-multiple-go-modules/core v0.1.2 h1:FqOkxEVQwzOBplmRDFbHpBDyCDwTtT+Vgem437SyfMw=
-github.com/hcsa73/test-multiple-go-modules/core v0.1.2/go.mod h1:y6V18XUK/EtcrWUa01p0R0bv09tvyzgu57zU5q1taAc=
+github.com/hcsa73/test-multiple-go-modules/core v0.1.3 h1:2EVsePwPjERgl9icZrZeyBVjitkApblCHYlacgNElQw=
+github.com/hcsa73/test-multiple-go-modules/core v0.1.3/go.mod h1:y6V18XUK/EtcrWUa01p0R0bv09tvyzgu57zU5q1taAc=
+github.com/hcsa73/test-multiple-go-modules/services/kubernetes v0.1.1 h1:XczPsQb9RJvaTRipSdw9+fHt4sAIQuC4sZTVm4f32aI=
+github.com/hcsa73/test-multiple-go-modules/services/kubernetes v0.1.1/go.mod h1:duY6TyVRR7zeDIkprDcO0Gga3I4P8ZCEZ5huoVKRzmI=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=
